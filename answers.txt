@@ -5,4 +5,7 @@ any individual lineages, so all previous versions can still be easily accessed. 
 but also more definitive. It sets all branches to the current commit, effectively erasing all other lineages. This cleans up the history a lot but
 can make collaboration harder.
 
+What is a remote repository?
 
+A remote repo is a repo which is remote from your machine, as opposed to a local repo, which is on your machine.
+hat is a remote repository?
